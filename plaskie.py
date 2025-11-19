@@ -1,0 +1,10 @@
+def pp_kwadratu(a:float)->float:
+    return a**2
+def pp_prostokat(a:float,b:float)->float:
+    return a*b
+def pp_rownolegloboku(a:float,h:float)->float:
+    return a*h
+def pp_trapzeu(a:float,b:float,h:float)->float:
+    return ((a+b)*h)/2
+def pp_trojkata(a:float,h:float)->float:
+    return (a*h)/2
